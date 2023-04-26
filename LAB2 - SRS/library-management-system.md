@@ -1,6 +1,6 @@
 ### Library Management System 
 
-Problem Statement: 
+**Problem Statement**: The library management system is currently operating manually, leading to issues such as slow retrieval of books, difficulty in tracking book availability and library activity, and delayed book returns. To address these issues, a software system is required that can automate the library's operations and provide a more efficient and streamlined experience for both librarians and patrons.
 
 **1. Introduction**:
 
@@ -14,50 +14,51 @@ Problem Statement:
 library resources, reserve materials, and renew items. The system is designed for library staff, librarians, and patrons who have basic computer knowledge. The library management software system will offer several features such as managing library resources, tracking library materials, processing loan requests, managing the library's digital resources,
 reserving materials, renewing items, managing patron accounts, and generating reports.
 
-**3. Functional Requirements**:
-The functional requirements of the library management software system are:
+**3. Functional Requirements**: The functional requirements of the library management software system are:
 
-i. manage library resources, including books, journals, and multimedia materials.
+i. manage library resources, including books, journals, and multimedia materials
 
-ii. track library materials and their location within the library.
+ii. track library materials and their location within the library
 
-iii. process loan requests from patrons.
+iii. process loan requests from patrons
 
-iv. manage the library's digital resources, including eBooks and digital journals.
+iv. manage the library's digital resources, including eBooks and digital journals
 
-v. allow patrons to reserve materials and renew items.
+v. allow patrons to reserve materials and renew items
 
-vi. manage patron accounts.
+vi. manage patron accounts
 
-vii. generate reports.
+vii. generate reports
 
 **4. Interface Requirements**: The library management software system must have the following interfaces:
 
-i. A user interface for library staff and librarians to manage library resources, including tracking and processing loan requests.
+i. A user interface for library staff and librarians to manage library resources, including tracking and processing loan requests
 
-ii. A user interface for patrons to search and access library resources and manage their accounts.
+ii. A user interface for patrons to search and access library resources and manage their accounts
 
-iii. A database to store library resources, patron information, and loan requests.
+iii. A database to store library resources, patron information, and loan requests
 
 **5. Performance Requirements**: The library management software system must perform the following functions:
 
-i. The system must be fast and responsive when searching for library resources and processing loan requests.
+i. The system must be fast and responsive when searching for library resources and processing loan requests
 
-ii. The system must be able to handle multiple users concurrently.
+ii. The system must be able to handle multiple users concurrently
 
-iii. The system must be able to maintain data integrity and security.
+iii. The system must be able to maintain data integrity and security
 
 **6. Design Constraints**: The library management software system must be developed using the following design constraints:
 
-i. The system must use a web-based architecture.
-ii. The system must be developed using Java programming language.
-iii. The system must be designed to run on Windows and macOS platforms.
+i. The system must use a web-based architecture
+
+ii. The system must be developed using any programming language
+
+iii. The system must be designed to run on Windows and macOS platforms
 
 **7. Non-Functional Attributes**: The library management software system must meet the following non-functional attributes:
 
-i. Security: The system must be secure, protecting patron data and library resources.
+i. Security: The system must be secure, protecting patron data and library resources
 
-ii. Reliability: The system must be reliable and function without errors.
+ii. Reliability: The system must be reliable and function without errors
 
 iii. Scalability: The system must be scalable to meet the needs of growing libraries
 
