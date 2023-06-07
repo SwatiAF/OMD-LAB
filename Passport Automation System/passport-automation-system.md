@@ -8,4 +8,4 @@
 
 ### Sequence diagrams 
 
-![image](https://github.com/SwatiAF/OMD-LAB/assets/83855603/d81ccd10-cafd-4859-adc1-9872fb81db37)
+![image](https://github.com/SwatiAF/OMD-LAB/assets/83855603/c68c1b09-0e68-4676-a9cc-bf3b3a3e6a74)
