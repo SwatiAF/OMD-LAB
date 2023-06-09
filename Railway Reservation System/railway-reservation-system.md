@@ -5,3 +5,7 @@
 ### Usecase Diagram
 
 ![image](https://github.com/SwatiAF/OMD-LAB/assets/83855603/55aadc0f-7c9e-4036-ae8b-41f9e27462be)
+
+### Sequence diagram
+
+![image](https://github.com/SwatiAF/OMD-LAB/assets/83855603/3a38e1db-d3bd-41af-bb18-36228909203e)
