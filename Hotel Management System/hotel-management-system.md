@@ -4,3 +4,6 @@ main:
 
 ![image](https://user-images.githubusercontent.com/83855603/236293117-e92857c6-28e2-4807-8089-00efebedfde9.png)
 
+### Use case diagram
+
+![image](https://github.com/SwatiAF/OMD-LAB/assets/83855603/c80bfbbb-dcec-413b-bfe8-c5f33380fc7d)
