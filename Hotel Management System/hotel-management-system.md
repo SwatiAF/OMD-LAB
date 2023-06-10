@@ -7,3 +7,8 @@ main:
 ### Use case diagram
 
 ![image](https://github.com/SwatiAF/OMD-LAB/assets/83855603/c80bfbbb-dcec-413b-bfe8-c5f33380fc7d)
+
+### Sequence diagram
+
+![image](https://github.com/SwatiAF/OMD-LAB/assets/83855603/d32b2774-ede3-43b3-9e61-95ef6b8ab1a5)
+
